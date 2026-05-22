@@ -1,8 +1,8 @@
 # Dijkstra's Algorithm – Shortest Path
 
 ## Student Information
-- **Name:** [Your Name]
-- **Course:** [Your Course Name]
+- **Name:** [Matiullah zaman ]
+- **group :** [IT 2501]
 - **Assignment:** Bonus Task – Dijkstra's Algorithm (Shortest Path)
 
 ---
